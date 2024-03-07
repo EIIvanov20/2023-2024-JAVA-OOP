@@ -1,3 +1,5 @@
+package zad6;
+
 public class Car extends Vehicle{
     private final static double DEFAULT_FUEL_CONSUMPTION = 3;
 

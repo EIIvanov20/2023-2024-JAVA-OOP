@@ -1,5 +1,7 @@
+
 import java.util.*;
-public class Main {
+@SuppressWarnings("WrongPackageStatement")
+public class Main1 {
     public static void main(String[] args) {
         Map<String, Double> personKg = new HashMap<>();
         personKg.put("Ivan", 70.5);

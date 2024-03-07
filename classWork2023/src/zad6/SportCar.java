@@ -1,3 +1,5 @@
+package zad6;
+
 public class SportCar extends Car {
     private final static double DEFAULT_FUEL_CONSUMPTION = 10;
     public SportCar(double fuel, int horsePower) {
